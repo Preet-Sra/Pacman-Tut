@@ -5,17 +5,19 @@ TagManager:
   serializedVersion: 2
   tags:
   - Food
+  - Ghost
+  - Node
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Map
   - Water
   - UI
-  - Map
   - Obstacle
-  - 
-  - 
+  - Food
+  - Node
+  - Ghost
   - 
   - 
   - 

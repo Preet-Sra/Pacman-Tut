@@ -22,6 +22,7 @@ public class CommonMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + (direction * speed * Time.fixedDeltaTime));
+        PathAvaialble(direction);
     }
 
     bool PathAvaialble(Vector2 _direction)

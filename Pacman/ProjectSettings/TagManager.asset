@@ -7,6 +7,7 @@ TagManager:
   - Food
   - Ghost
   - Node
+  - SuperFood
   layers:
   - Default
   - TransparentFX

@@ -44,3 +44,16 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.29 to 1.1.31
   com.unity.timeline from version 1.6.2 to 1.6.4
   com.unity.visualscripting from version 1.7.2 to 1.7.8
+
+=== Sun Mar 31 09:17:09 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.5
+The following packages were updated:
+  com.unity.2d.animation from version 7.0.12 to 9.1.0
+  com.unity.2d.psdimporter from version 6.0.7 to 8.0.4
+  com.unity.2d.spriteshape from version 7.0.7 to 9.0.2
+  com.unity.2d.tilemap.extras from version 2.2.7 to 3.1.2
